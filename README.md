@@ -31,15 +31,15 @@ Let's connect and explore the endless vast possibilities of development! 🚀✨
 <div align="center">
 <div><h3>Lets connect 👨🏻‍💻✨ </h3></div>
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomonjdavid001)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](solomonjdavid001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomonjohnsondavid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](solomonjohnsondavid@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Solomon_david01)
 
-<img src="https://raw.githubusercontent.com/solomonjdavid001/solomonjdavid001/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/solomonjohnsondavid/solomonjohnsondavid/output/snake.svg" alt="Snake animation" />
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/solomonjdavid001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20✨;&font=Candara&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=20"></a>
+  <a href="https://github.com/solomonjohnsondavid"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20✨;&font=Candara&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=20"></a>
 </p>
 
